@@ -1,5 +1,5 @@
-Dev / Indie Builder
+## Dev / Indie Builder
 
-🐧 https://colorpenguin.com
-🧱 https://starterindex.com
-⏱️ https://myfocus.zone
+🐧 [ColorPenguin](https://colorpenguin.com)  
+🧱 [StarterIndex](https://starterindex.com)  
+⏱️ [MyFocus.Zone](https://myfocus.zone)
